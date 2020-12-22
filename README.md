@@ -1,2 +1,3 @@
 # HousingPricePrediction
 House Prices - Advanced Regression Techniques
+In this repository, you can find various function and visualization algorithms that make Exploratory data analysis easy. Some of the functions are interactive. They show a graph and ask you how you want to manipulate the data.  Some of the user defined-functions run through each column and depict the diagrams in different forms. In another series of codes, all of the decisions are automated. Categorical variables are combined if their size is smaller than a threshold or different categories have a similar statistical description. SKlearn's ensemble algorithms are used to predict housing prices. It includes GradientBoostRegressor, XGBoost, LGBoost, Bagging, and Stacking algorithms.
